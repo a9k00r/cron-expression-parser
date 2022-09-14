@@ -3,4 +3,4 @@
 ## run:
 
 - mvn clean install
-- java -jar cron-parser-deliveroo-1.0-SNAPSHOT.jar {command}
+- java -jar cron-parser-deliveroo-1.0-SNAPSHOT.jar {cron expression}
